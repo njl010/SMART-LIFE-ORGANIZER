@@ -59,7 +59,7 @@ Includes:
 ---
  🧩 **Architecture Diagram**
 
-`
+```text
                    ┌──────────────────────────┐
                    │      Supervisor Agent    │
                    │  (Central Orchestrator)  │
