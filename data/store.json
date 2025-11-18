@@ -1,0 +1,198 @@
+{
+  "meal_plan": {
+    "day1": {
+      "breakfast": "oatmeal",
+      "lunch": "salad",
+      "dinner": "veg curry"
+    },
+    "day2": {
+      "breakfast": "eggs",
+      "lunch": "rice bowl",
+      "dinner": "pasta"
+    },
+    "day3": {
+      "breakfast": "smoothie",
+      "lunch": "wrap",
+      "dinner": "stir fry"
+    },
+    "day4": {
+      "breakfast": "oatmeal",
+      "lunch": "salad",
+      "dinner": "veg curry"
+    },
+    "day5": {
+      "breakfast": "eggs",
+      "lunch": "rice bowl",
+      "dinner": "pasta"
+    },
+    "day6": {
+      "breakfast": "smoothie",
+      "lunch": "wrap",
+      "dinner": "stir fry"
+    },
+    "day7": {
+      "breakfast": "oatmeal",
+      "lunch": "salad",
+      "dinner": "veg curry"
+    }
+  },
+  "shopping_list": [
+    "oil",
+    "pasta",
+    "spices",
+    "vegetables"
+  ],
+  "schedule": [
+    {
+      "time": "18:00",
+      "note": "Cook dinner for day1"
+    },
+    {
+      "time": "08:00",
+      "note": "Prepare breakfast for day1"
+    },
+    {
+      "time": "18:00",
+      "note": "Cook dinner for day2"
+    },
+    {
+      "time": "08:00",
+      "note": "Prepare breakfast for day2"
+    },
+    {
+      "time": "18:00",
+      "note": "Cook dinner for day3"
+    },
+    {
+      "time": "08:00",
+      "note": "Prepare breakfast for day3"
+    },
+    {
+      "time": "18:00",
+      "note": "Cook dinner for day4"
+    },
+    {
+      "time": "08:00",
+      "note": "Prepare breakfast for day4"
+    },
+    {
+      "time": "18:00",
+      "note": "Cook dinner for day5"
+    },
+    {
+      "time": "08:00",
+      "note": "Prepare breakfast for day5"
+    },
+    {
+      "time": "18:00",
+      "note": "Cook dinner for day6"
+    },
+    {
+      "time": "08:00",
+      "note": "Prepare breakfast for day6"
+    },
+    {
+      "time": "18:00",
+      "note": "Cook dinner for day7"
+    },
+    {
+      "time": "08:00",
+      "note": "Prepare breakfast for day7"
+    }
+  ],
+  "tasks": [
+    {
+      "day": "day1",
+      "task": "Prepare veg curry",
+      "priority": "medium"
+    },
+    {
+      "day": "day2",
+      "task": "Prepare pasta",
+      "priority": "medium"
+    },
+    {
+      "day": "day3",
+      "task": "Prepare stir fry",
+      "priority": "medium"
+    },
+    {
+      "day": "day4",
+      "task": "Prepare veg curry",
+      "priority": "medium"
+    },
+    {
+      "day": "day5",
+      "task": "Prepare pasta",
+      "priority": "medium"
+    },
+    {
+      "day": "day6",
+      "task": "Prepare stir fry",
+      "priority": "medium"
+    },
+    {
+      "day": "day7",
+      "task": "Prepare veg curry",
+      "priority": "medium"
+    }
+  ],
+  "reminders": [
+    {
+      "time": "18:00",
+      "message": "Cook dinner for day1"
+    },
+    {
+      "time": "08:00",
+      "message": "Prepare breakfast for day1"
+    },
+    {
+      "time": "18:00",
+      "message": "Cook dinner for day2"
+    },
+    {
+      "time": "08:00",
+      "message": "Prepare breakfast for day2"
+    },
+    {
+      "time": "18:00",
+      "message": "Cook dinner for day3"
+    },
+    {
+      "time": "08:00",
+      "message": "Prepare breakfast for day3"
+    },
+    {
+      "time": "18:00",
+      "message": "Cook dinner for day4"
+    },
+    {
+      "time": "08:00",
+      "message": "Prepare breakfast for day4"
+    },
+    {
+      "time": "18:00",
+      "message": "Cook dinner for day5"
+    },
+    {
+      "time": "08:00",
+      "message": "Prepare breakfast for day5"
+    },
+    {
+      "time": "18:00",
+      "message": "Cook dinner for day6"
+    },
+    {
+      "time": "08:00",
+      "message": "Prepare breakfast for day6"
+    },
+    {
+      "time": "18:00",
+      "message": "Cook dinner for day7"
+    },
+    {
+      "time": "08:00",
+      "message": "Prepare breakfast for day7"
+    }
+  ]
+}
