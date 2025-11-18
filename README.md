@@ -121,7 +121,7 @@ SMART-LIFE-ORGANIZER/
 ├── requirements.txt
 └── README.md
 
-
+```
 
 python3 src/supervisor_agent.py
  eg output:
@@ -140,4 +140,10 @@ python3 src/supervisor_agent.py
 docker build -t smart-life-organizer .
 docker run -p 8000:8000 smart-life-organizer
 
+
+
+⭐ Acknowledgements
+This project was built as part of:
+Google x Kaggle — AI Agents Intensive 2025
+Huge thanks to the teaching team and agents community.
 
